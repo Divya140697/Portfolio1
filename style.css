@@ -1,0 +1,11 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#id1{
+    text-align: center;
+    background-color: dimgrey;
+}
+table, th, tr, td{
+    border: 2px black solid;
+    border-collapse: collapse;
+}
